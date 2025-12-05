@@ -59,7 +59,7 @@ BRIGHTDATA_PERPLEXITY_DATASET_ID=your_brightdata_perplexity_dataset_id
 
 - Clone this repository and navigate into it.
 
-- Create a .env file with your BrightData API credentials.
+- Create .env file with your BrightData API credentials.
 
 - Run the script in your console:
 
